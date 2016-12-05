@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1503CA59-5C88-485E-873C-1E953C782F8F}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KingLion.WebUtils.Jobs", "src\KingLion.WebUtils.Jobs\KingLion.WebUtils.Jobs.xproj", "{E712F7C8-050F-444E-8ADD-940F6ABBB975}"
